@@ -36,7 +36,7 @@ const Navbar = () => {
             href="/"
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
           >
-            Ali
+            Ilgiz Satkynov
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}
